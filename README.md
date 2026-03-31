@@ -6,12 +6,11 @@ Chosen Software: Python
 
 ## Repository Contents
 
-- script1_system_identity.sh
-- script2_package_inspector.sh
-- script3_disk_auditor.sh
-- script4_log_analyzer.sh
-- script5_manifesto_generator.sh
-- project_report.pdf
+- script1.sh
+- script2.sh
+- script3.sh
+- script4.sh
+- script5.sh
 
 ## Description of Scripts
 
@@ -40,11 +39,11 @@ chmod +x *.sh
 
 ### Step 3: Run scripts
 
-./script1_system_identity.sh  
-./script2_package_inspector.sh  
-./script3_disk_auditor.sh  
-./script4_log_analyzer.sh /var/log/syslog error  
-./script5_manifesto_generator.sh  
+./script1.sh  
+./script2.sh  
+./script3.sh  
+./script4.sh   
+./script5.sh  
 ## Dependency
 
 Python3 installed on Linux syste
